@@ -1,0 +1,152 @@
+*{
+    margin: 0;
+    padding: 0;
+    
+}
+#h1{
+    color: crimson;
+    text-align: center;
+    text-decoration: underline;
+    margin-top: 15px;
+   
+    
+}
+#body{
+    background-color: black;
+}
+
+#h1:hover{
+    color: gold;
+    
+}
+#PrethodnaStr{
+    background-color: black;
+    color: gold;
+}
+#PrethodnaStr:hover{
+    background-color: crimson;
+}
+#NarednaStr{
+    background-color: black;
+    color: gold;
+    margin-left: 50px;
+}
+#NarednaStr:hover{
+    background-color: crimson;
+}
+#body{
+    min-height: 100vh;
+}
+
+#h2{
+    color: crimson;
+    margin-top: 40px;
+    margin-left: 400px;
+}
+#h2:hover{
+    color: gold;
+}
+#p1{
+    color: crimson;
+    border: 3px solid gold;
+    margin-top: 20px;
+    margin-left: 100px;
+    padding: 10px;
+    width: 870px;
+    text-align: left;
+}
+table,td{
+    border: 4px solid crimson;
+    padding: 5px;
+    padding-right: 10px;
+    color: gold ;
+    margin-left: 100px;
+    margin-top: 50px;
+    
+}
+th{
+    border: 4px solid gold;
+    color: crimson;
+    width: 220px;
+    text-align: center;
+}
+.row{
+    display: inline;
+}
+
+#stubac1{
+    color: crimson;
+    font-size: 20px;
+    margin-left: 20px;
+    margin-top: 30px;
+    padding: 10px;
+    border: 3px dotted gold;
+    width: fit-content;
+    
+}
+#h3{
+    color: gold;
+}
+#h3:hover{
+    color: crimson;
+}
+.ULista1{
+    color: gold;
+    padding-left: 40px;
+}
+.ULista2{
+    color: gold;
+    padding-left: 40px;
+}
+.ULista3{
+    color: gold;
+    padding-left: 40px;
+}
+#stubac2{
+    color: crimson;
+    font-size: 20px;
+    margin-left: 20px;
+    margin-top: 30px;
+    padding: 10px;
+    border: 3px dotted gold;
+    
+    width: fit-content;
+    
+}
+
+div.slike{
+    margin: 5px;
+    border: 3px solid gold;
+    float: left;
+    margin-top: 30px;
+}
+
+div.slike:hover {
+    border: 5px solid crimson;
+  }
+  
+div.desc{
+    padding: 25px;
+    text-align: center;
+    font-size: 20px;
+    color: crimson;
+}
+.footer{
+    position: sticky;
+    top: 100%;
+    text-align: center;
+    background-color: crimson;
+    padding: 15px;
+    
+    
+    
+}
+.slike:hover {
+    left: 50px;
+    top: 50px;
+    -webkit-transform: rotate(5deg) scale(0.8);
+    -moz-transform: rotate(5deg) scale(0.8);
+    -o-transform: rotate(5deg) scale(0.8);
+    transform: rotate(5deg) scale(0.8);
+    opacity: 1;
+    }
